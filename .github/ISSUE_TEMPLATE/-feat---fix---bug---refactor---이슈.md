@@ -1,5 +1,5 @@
 ---
-name: "[Feat | Fix | Bug ] 이슈"
+name: "[Feat | Fix | Bug | Refactor ] 이슈"
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
